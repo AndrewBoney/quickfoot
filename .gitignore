@@ -162,4 +162,4 @@ cython_debug/
 # custom
 Scripts/
 share/
-data/vaastav/
+# data/vaastav/
